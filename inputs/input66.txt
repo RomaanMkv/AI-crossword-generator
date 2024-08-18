@@ -1,0 +1,10 @@
+mode
+tours
+holes
+index
+sources
+workshop
+inspired
+specialist
+journalist
+journalists

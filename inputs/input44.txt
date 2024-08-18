@@ -1,0 +1,11 @@
+nascar
+linear
+street
+pattern
+factors
+threats
+bacteria
+streaming
+direction
+dimension
+participated
